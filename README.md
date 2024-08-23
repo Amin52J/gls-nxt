@@ -6,6 +6,10 @@ I'm using Testing-Library and Jest for the tests.
 
 The folder structure is according to Next.js' app routing convention. All the modules or pages will be inside the app folder under src and their components will be under the root's components folder. This structure is ideal for scalability and I find it to be super flexible as the project grows. 
 
+## Time Spent
+
+~5 hours
+
 ## Running The Project
 
 Run the following commands:
